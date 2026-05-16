@@ -429,7 +429,7 @@ Transcribes uploaded audio using OpenAI Whisper.
 
 ## 👤 Author
 
-**Krishna**
+**Krishna - https://github.com/kdboss01**
 Task 1 Language Translation Tool
 
 ---
